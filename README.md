@@ -1,2 +1,2 @@
 # rsschool-cv
-https://github.com/commlog/rsschool-cv/blob/gh-pages/cv.md
+https://commlog.github.io/rsschool-cv/cv
