@@ -1,11 +1,28 @@
 ## Roman Rostovski
 ![](https://avatars.githubusercontent.com/u/106234155?v=4)
+### Contacts
++ *Location:* Russia, Moscow
++ *discord:* commlog#0750 
++ *Github:* [commlog](https://github.com/commlog)
 
-discord: commlog#0750
+### About me
 
-A code from Codewars
+I'm a good men
+
+### Skills
++ HTML
++ JavaScript(Fundamental)
++ Git
+
+
+### A code from Codewars
 ```
 function multiply(a, b) { 
   return a * b
 } 
 ```
+### Education
++ *University:* MTI 
+
+### English 
++ *A1*
