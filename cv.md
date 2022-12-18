@@ -1,5 +1,5 @@
 
-## Andrey Pechenev
+## Andre P
 ![](https://avatars.githubusercontent.com/u/106234155?v=4)
 ### Contacts
 + *Location:* Russia, SPB
@@ -8,7 +8,10 @@
 
 ### About me
 
-I'm a good men
+I'm Cloud Architect
+
+I would like to doing websites
+Looking for a way to learn how to do it professionally!
 
 ### Skills
 + HTML
